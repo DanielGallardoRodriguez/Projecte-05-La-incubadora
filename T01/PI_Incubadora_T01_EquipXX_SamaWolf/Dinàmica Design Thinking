@@ -25,36 +25,31 @@
 - **Daniel Gallardo Rodriguez – Facilitador:** Controla el temps i presa de decisions.  
 - **Lluis Garcia Martinez – Documentador:** Redacció, organització del contingut i evidències.
 
-**Espai per foto de l’equip:**  
-![Foto de l'equip](ruta/a/foto_equip.jpg)
+**Espai per foto de l’equip:** ![Foto de l'equip](ruta/a/foto_equip.jpg)
 
 ---
 
 ## FASE 1 — EMPATITZAR I DEFINIR
 
-**Repte:**  
-Millorar la infraestructura tecnològica de petites empreses del Maresme perquè puguin treballar de manera segura i estable.
+**Repte:** Millorar la infraestructura tecnològica de petites empreses del Maresme perquè puguin treballar de manera segura i estable.
 
-**Problema / Oportunitat:**  
-Moltes petites empreses de Mataró i el Maresme tenen xarxes informàtiques mal configurades, sense còpies de seguretat ni mesures bàsiques de seguretat, provocant pèrdues de temps, incidències freqüents i risc de pèrdua de dades importants.
+**Problema / Oportunitat:** Moltes petites empreses de Mataró i el Maresme tenen xarxes informàtiques mal configurades, sense còpies de seguretat ni mesures bàsiques de seguretat, provocant pèrdues de temps, incidències freqüents i risc de pèrdua de dades importants.
 
-**Reformulació del problema (HMW):**  
-*Com podríem millorar la seguretat i la gestió de la infraestructura IT d’una petita empresa del Maresme perquè pugui treballar sense interrupcions ni risc de pèrdua de dades?*
+**Reformulació del problema (HMW):** *Com podríem millorar la seguretat i la gestió de la infraestructura IT d’una petita empresa del Maresme perquè pugui treballar sense interrupcions ni risc de pèrdua de dades?*
 
 **Usuari (Persona):**
-| Camp               | Dades                                                  |
-|-------------------|-------------------------------------------------------|
-| Nom               | Jordi Puig                                           |
-| Edat              | 45 anys                                              |
-| Professiò         | Gerent                                               |
-| Empresa           | Gestoria Puig SL                                     |
-| Ciutat            | Mataró                                               |
-| Frase típica      | “La informàtica sempre dóna problemes quan més feina tenim.” |
-| Ús de tecnologia  | Mitjà-baix                                          |
-| Personalitat      | Pràctic, amb poc temps, busca solucions simples i fiables |
+| Camp | Dades |
+| :--- | :--- |
+| Nom | Jordi Puig |
+| Edat | 45 anys |
+| Professiò | Gerent |
+| Empresa | Gestoria Puig SL |
+| Ciutat | Mataró |
+| Frase típica | “La informàtica sempre dóna problemes quan més feina tenim.” |
+| Ús de tecnologia | Mitjà-baix |
+| Personalitat | Pràctic, amb poc temps, busca solucions simples i fiables |
 
-**Espai per fotos de fitxes i validacions:**  
-![Fitxa 1](ruta/a/fitxa1.jpg)  
+**Espai per fotos de fitxes i validacions:** ![Fitxa 1](ruta/a/fitxa1.jpg)  
 ![Fitxa 2](ruta/a/fitxa2.jpg)
 
 ---
@@ -80,11 +75,9 @@ Moltes petites empreses de Mataró i el Maresme tenen xarxes informàtiques mal 
 - Xarxa segura amb còpies de seguretat  
 - Suport tècnic extern per pimes  
 
-**Solució final:**  
-**NetMaresme Care** – Servei de manteniment i gestió d’infraestructura IT per a petites empreses del Maresme, orientat a garantir seguretat, continuïtat del servei i tranquil·litat.
+**Solució final:** **NetMaresme Care** – Servei de manteniment i gestió d’infraestructura IT per a petites empreses del Maresme, orientat a garantir seguretat, continuïtat del servei i tranquil·litat.
 
-**Espai per imatges de brainstorm / moodboard:**  
-![Idees](ruta/a/idees.jpg)
+**Espai per imatges de brainstorm / moodboard:** ![Idees](ruta/a/idees.jpg)
 
 ---
 
@@ -94,8 +87,7 @@ Moltes petites empreses de Mataró i el Maresme tenen xarxes informàtiques mal 
 
 **Flux de funcionament (Entrada → Procés → Resultat)**
 
-**Entrada (Client):**  
-L’empresa client treballa amb ordinadors i xarxa local. Apareixen incidències: lentitud, errors, dubtes, risc de pèrdua de dades. Contacta amb NetMaresme IT.
+**Entrada (Client):** L’empresa client treballa amb ordinadors i xarxa local. Apareixen incidències: lentitud, errors, dubtes, risc de pèrdua de dades. Contacta amb NetMaresme IT.
 
 **Procés (NetMaresme IT):**
 - Xarxa local segura (LAN + Wi-Fi convidats)  
@@ -133,133 +125,3 @@ L’empresa client treballa amb ordinadors i xarxa local. Apareixen incidències
 - Seguretat
 - Menys errors
 - Continuïtat del servei
-Text breu per document:
-
-El prototip mostra el funcionament del servei NetMaresme Care. El client treballa amb la seva infraestructura habitual i comunica incidències. NetMaresme IT gestiona la xarxa, sistemes i còpies de seguretat com a empresa externa. El resultat és una infraestructura estable, segura i amb menys incidències, permetent al client centrar-se en el seu negoci.
-
-Espai per dibuix del prototip:
-
-3B — Mini Model de Negoci / Validació
-Usuaris:
-
-Qui paga: L’empresa client
-
-Qui usa: Treballadors de l’empresa
-
-Segments de clients:
-
-Petites gestories i assessories del Maresme
-
-Oficines i comerços amb 5–20 treballadors
-
-Proposta de valor:
-Reducció d’incidències, millora de la seguretat i estalvi de temps per al client.
-
-Recursos:
-
-Coneixements en xarxes i sistemes
-
-Ordinadors i equipament de xarxa
-
-Programari de gestió i suport tècnic
-
-Activitats:
-
-Instal·lació, manteniment i monitorització
-
-Suport tècnic i resolució d’incidències
-
-Assessorament al client en bones pràctiques IT
-
-Canals:
-
-Web corporativa
-
-Contacte directe amb empreses locals
-
-Recomanacions i boca-orella
-
-Relació amb el client:
-
-Tracte directe i personalitzat
-
-Comunicació per correu i telèfon
-
-Suport tècnic sota demanda
-
-Seguiment periòdic dels sistemes
-
-Socis clau:
-
-Proveïdors de material informàtic i de xarxa
-
-Empreses de serveis cloud i allotjament
-
-Autònoms o col·laboradors per suport puntual
-
-Estructura de costos:
-
-Equipament informàtic
-
-Llicències de programari
-
-Connexió a internet i serveis
-
-Temps de treball
-
-Fluxos d’ingressos:
-
-Quota mensual de manteniment
-
-Serveis puntuals (instal·lacions o reparacions)
-
-Validacions:
-
-Parlar amb una gestoria local
-
-Consultar un petit comerç del barri
-
-Contactar amb una oficina professional
-
-Fortaleses:
-
-Coneixements tècnics en xarxes i sistemes informàtics
-
-Servei proper i adaptat a empreses locals
-
-Costos més baixos que grans empreses IT
-
-Tracte directe i personalitzat amb el client
-
-Debilitats:
-
-Experiència limitada com a empresa recent
-
-Recursos humans reduïts
-
-Dependència de proveïdors externs
-
-Capacitat limitada per assumir molts clients alhora
-
-Espai per fotos del Canvas / validacions:
-
-FASE 4 — PITCH (1 minut)
-Problema:
-Les petites empreses del Maresme pateixen problemes IT constants que provoquen pèrdues de temps i risc de dades.
-
-Enfocament:
-Volem ser la seva empresa IT de confiança.
-
-Solució:
-Som NetMaresme IT i oferim un servei de manteniment i seguretat adaptat a pimes.
-
-Validació:
-Validarem parlant amb empreses reals i ajustant el servei a les seves necessitats.
-
-Equip:
-Coneixements en xarxes, sistemes i suport tècnic.
-
-Final:
-Amb la nostra solució, el client treballa tranquil i segur. El primer pas és una revisió inicial de la seva infraestructura.
-
-Espai per infografia o esquema pitch:
