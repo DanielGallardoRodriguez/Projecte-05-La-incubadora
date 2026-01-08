@@ -1,1 +1,162 @@
+# Dinàmica Design Thinking – Projecte Incubadora
+## Startup Blueprint v1 – FP Sistemes i Xarxes (Grau Mitjà)
+
+---
+
+## FASE 0 — EQUIP
+
+**Nom de l’equip:** NetMaresme IT  
+**Membres de l’equip:** Alumne A, Alumne B  
+**Número d’equip:** Equip XX
+
+**Fortaleses de l’equip:**
+- Xarxes
+- Sistemes
+- Hardware
+- Organització i documentació
+
+**Rols:**
+- **Persona A – Facilitador:** Controla temps i presa de decisions
+- **Persona B – Documentador:** Redacció i organització del contingut
+
+---
+
+## FASE 1 — EMPATITZAR I DEFINIR
+
+**Repte:**  
+Millorar la infraestructura tecnològica de petites empreses del Maresme perquè puguin treballar de manera segura i estable.
+
+**Problema / Oportunitat:**  
+Moltes petites empreses de Mataró i el Maresme tenen xarxes mal configurades, sense còpies de seguretat ni mesures bàsiques de seguretat, provocant pèrdues de temps, incidències freqüents i risc de pèrdua de dades importants.
+
+**Reformulació del problema (HMW):**  
+> Com podríem millorar la seguretat i la gestió de la infraestructura IT d’una petita empresa del Maresme perquè pugui treballar sense interrupcions ni risc de pèrdua de dades?
+
+**Usuari (Persona):**
+
+| Atribut | Descripció |
+|---------|------------|
+| Nom | Jordi Puig |
+| Edat | 45 anys |
+| Professions | Gerent |
+| Empresa | Gestoria Puig SL |
+| Ciutat | Mataró |
+| Frase típica | “La informàtica sempre dóna problemes quan més feina tenim.” |
+| Ús de la tecnologia | Mitjà-baix |
+| Personalitat | Pràctic, amb poc temps, busca solucions simples i fiables |
+
+---
+
+## FASE 2 — IDEACIÓ
+
+**Pluja d’idees (resum):**
+- Servei de manteniment IT
+- Xarxa segura per pimes
+- Còpies de seguretat automàtiques
+- Wi-Fi per convidats separat
+- Instal·lació de firewall
+- Monitorització remota
+- Suport tècnic extern
+- Servidor NAS compartit
+- Gestió d’usuaris i permisos
+- Migració de correu corporatiu
+- Auditoria IT bàsica
+- Formació bàsica en seguretat
+
+**Selecció d’idees finalistes:**
+1. Servei de manteniment IT mensual
+2. Xarxa segura amb còpies de seguretat
+3. Suport tècnic extern per pimes
+
+**Solució final:**  
+**NetMaresme Care** – Servei de manteniment i gestió d’infraestructura IT per a petites empreses del Maresme, orientat a garantir seguretat, continuïtat del servei i tranquil·litat.
+
+---
+
+## FASE 3 — PROTOTIPAR I VALIDAR
+
+### 3A — Prototip (Flux de servei)
+
+**Flux de funcionament (Entrada → Procés → Resultat)**
+
+**Entrada (Client):**  
+L’empresa client treballa amb ordinadors i xarxa local. Apareixen incidències: lentitud, errors, dubtes, risc de pèrdua de dades. Contacta amb NetMaresme IT.
+
+**Procés (NetMaresme IT):**
+- Xarxa local segura (LAN + Wi-Fi convidats)
+- Control d’usuaris i permisos
+- Còpies de seguretat periòdiques
+- Monitorització bàsica dels sistemes
+- Resolució d’incidències i manteniment preventiu
+
+**Resultat (Client):**
+- Xarxa estable i segura
+- Menys incidències
+- Protecció de dades
+- Estalvi de temps
+- Tranquil·litat
+
+**Esquema gràfic (compatible GitHub):**
+
+- **Empresa Client**
+  - PCs, usuaris, incidències
+  - ↓
+- **NetMaresme IT**
+  - Xarxa LAN segura
+  - Wi-Fi convidats
+  - Firewall
+  - Backups
+  - Monitorització
+  - Suport tècnic
+  - ↓
+- **Resultat**
+  - Estabilitat
+  - Seguretat
+  - Menys errors
+  - Continuïtat del servei
+
+**Text breu per document:**  
+> El prototip mostra el funcionament del servei NetMaresme Care. El client treballa amb la seva infraestructura habitual i comunica incidències. NetMaresme IT gestiona la xarxa, sistemes i còpies de seguretat com a empresa externa. El resultat és una infraestructura estable, segura i amb menys incidències, permetent al client centrar-se en el seu negoci.
+
+---
+
+### 3B — Mini Model de Negoci (Canvas simplificat)
+
+| Categoria | Descripció |
+|-----------|------------|
+| Usuaris | Qui paga: L’empresa client (gerent) <br> Qui usa: Treballadors de l’empresa |
+| Segments de clients | Petites gestories i assessories del Maresme <br> Oficines i comerços amb 5–20 treballadors |
+| Proposta de valor | Millorem la seguretat i estabilitat de la infraestructura informàtica de l’empresa, reduint incidències, risc de pèrdua de dades i temps perdut per problemes tècnics |
+| Recursos | Coneixements en xarxes i sistemes, ordinadors i equipament de xarxa, programari de gestió i suport tècnic |
+| Activitats | Instal·lació i configuració de xarxes i equips, manteniment i revisions periòdiques, suport tècnic i resolució d’incidències, assessorament en bones pràctiques IT |
+| Canals | Web corporativa, contacte directe amb empreses locals, recomanacions i boca-orella |
+| Relació amb el client | Tracte directe i personalitzat, comunicació per correu i telèfon, suport tècnic sota demanda, seguiment periòdic dels sistemes |
+| Socis clau | Proveïdors de material informàtic i de xarxa, empreses de serveis cloud i allotjament, autònoms o col·laboradors per suport puntual |
+| Estructura de costos | Equipament informàtic, llicències de programari, connexió a internet i serveis, temps de treball |
+| Fluxos d’ingressos | Quota mensual de manteniment, serveis puntuals (instal·lacions o reparacions) |
+| Validacions | Parlar amb una gestoria local, consultar un petit comerç del barri, contactar amb una oficina professional |
+| Fortaleses | Coneixements tècnics en xarxes i sistemes informàtics, servei proper i adaptat a empreses locals, costos més baixos que grans empreses IT, tracte directe i personalitzat amb el client |
+| Debilitats | Experiència limitada com a empresa recent, recursos humans reduïts, dependència de proveïdors externs, capacitat limitada per assumir molts clients alhora |
+
+---
+
+## FASE 4 — PITCH (1 minut)
+
+**Problema:**  
+> Les petites empreses del Maresme pateixen problemes IT constants que provoquen pèrdues de temps i risc de dades.
+
+**Enfocament:**  
+> Volem ser la seva empresa IT de confiança.
+
+**Solució:**  
+> Som NetMaresme IT i oferim un servei de manteniment i seguretat adaptat a pimes.
+
+**Validació:**  
+> Validarem parlant amb empreses reals i ajustant el servei a les seves necessitats.
+
+**Equip:**  
+> Coneixements en xarxes, sistemes i suport tècnic.
+
+**Final:**  
+> Amb la nostra solució, el client treballa tranquil i segur. El primer pas és una revisió inicial de la seva infraestructura.
 
