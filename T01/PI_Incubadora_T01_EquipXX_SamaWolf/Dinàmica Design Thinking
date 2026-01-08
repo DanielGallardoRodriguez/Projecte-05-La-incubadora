@@ -1,1 +1,117 @@
+# Dinàmica Design Thinking – Projecte Incubadora
+**Startup Blueprint v1** – FP Sistemes i Xarxes (Grau Mitjà)
+
+---
+
+## FASE 0 — EQUIP
+**Nom de l’equip:** SamaWolf  
+**Membres de l’equip:** Daniel Gallardo Rodriguez, Lluis Garcia Martinez  
+**Número d’equip:** Equip XX  
+
+**Fortaleses de l’equip:**
+- Xarxes
+- Sistemes
+- Hardware
+- Organització i documentació
+
+**Rols:**
+- **Daniel Gallardo Rodriguez – Facilitador:** Controla el temps i presa de decisions.  
+- **Lluis Garcia Martinez – Documentador:** Redacció, organització del contingut i evidències.
+
+---
+
+## FASE 1 — EMPATITZAR I DEFINIR
+
+**Repte:**  
+Millorar la infraestructura tecnològica de petites empreses del Maresme perquè puguin treballar de manera segura i estable.
+
+**Problema / Oportunitat:**  
+Moltes petites empreses de Mataró i el Maresme tenen xarxes informàtiques mal configurades, sense còpies de seguretat ni mesures bàsiques de seguretat, provocant pèrdues de temps, incidències freqüents i risc de pèrdua de dades importants.
+
+**Reformulació del problema (HMW):**  
+*Com podríem millorar la seguretat i la gestió de la infraestructura IT d’una petita empresa del Maresme perquè pugui treballar sense interrupcions ni risc de pèrdua de dades?*
+
+**Usuari (Persona):**
+- **Nom:** Jordi Puig  
+- **Edat:** 45 anys  
+- **Professió:** Gerent  
+- **Empresa:** Gestoria Puig SL  
+- **Ciutat:** Mataró  
+- **Frase típica:** “La informàtica sempre dóna problemes quan més feina tenim.”  
+- **Ús de la tecnologia:** Mitjà-baix  
+- **Personalitat:** Pràctic, amb poc temps, busca solucions simples i fiables
+
+---
+
+## FASE 2 — IDEACIÓ
+
+**Pluja d’idees:**
+- Servei de manteniment IT  
+- Xarxa segura per pimes  
+- Còpies de seguretat automàtiques  
+- Wi-Fi per convidats separat  
+- Instal·lació de firewall  
+- Monitorització remota  
+- Suport tècnic extern  
+- Servidor NAS compartit  
+- Gestió d’usuaris i permisos  
+- Migració de correu corporatiu  
+- Auditoria IT bàsica  
+- Formació bàsica en seguretat  
+
+**Selecció d’idees finalistes:**
+- Servei de manteniment IT mensual  
+- Xarxa segura amb còpies de seguretat  
+- Suport tècnic extern per pimes  
+
+**Solució final:**  
+**NetMaresme Care** – Servei de manteniment i gestió d’infraestructura IT per a petites empreses del Maresme, orientat a garantir seguretat, continuïtat del servei i tranquil·litat.
+
+---
+
+## FASE 3 — PROTOTIPAR I VALIDAR
+
+### 3A — Prototip (Flux de servei)
+
+**Flux de funcionament (Entrada → Procés → Resultat)**
+
+**Entrada (Client):**  
+L’empresa client treballa amb ordinadors i xarxa local. Apareixen incidències: lentitud, errors, dubtes, risc de pèrdua de dades. Contacta amb NetMaresme IT.
+
+**Procés (NetMaresme IT):**
+- Xarxa local segura (LAN + Wi-Fi convidats)  
+- Control d’usuaris i permisos  
+- Còpies de seguretat periòdiques  
+- Monitorització bàsica dels sistemes  
+- Resolució d’incidències i manteniment preventiu  
+
+**Resultat (Client):**
+- Xarxa estable i segura  
+- Menys incidències  
+- Protecció de dades  
+- Estalvi de temps  
+- Tranquil·litat  
+
+**Esquema gràfic (dibuixable):**
+```text
+[ Empresa Client ]
+(PCs, usuaris, incidències)
+        |
+        v
+[ NetMaresme IT ]
+------------------------------
+- Xarxa LAN segura
+- Wi-Fi convidats
+- Firewall
+- Backups
+- Monitorització
+- Suport tècnic
+------------------------------
+        |
+        v
+[ Resultat ]
+- Estabilitat
+- Seguretat
+- Menys errors
+- Continuïtat del servei
 
