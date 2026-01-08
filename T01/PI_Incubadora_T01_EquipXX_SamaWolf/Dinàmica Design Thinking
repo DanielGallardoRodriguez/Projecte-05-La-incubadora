@@ -1,127 +1,88 @@
 # Dinàmica Design Thinking – Projecte Incubadora
-**Startup Blueprint v1** – FP Sistemes i Xarxes (Grau Mitjà)
+## Startup Blueprint v1 – FP Sistemes i Xarxes (Grau Mitjà)
 
 ---
 
-## FASE 0 — EQUIP
-
-**Nom de l’equip:** SamaWolf  
-**Membres de l’equip:** Daniel Gallardo Rodriguez, Lluis Garcia Martinez  
+## 🛡️ FASE 0 — EQUIP
+**Nom de l’equip:** `NetMaresme IT`  
+**Membres de l’equip:** Alumne A, Alumne B  
 **Número d’equip:** Equip XX  
 
-**Fortaleses de l’equip:**
-- Xarxes
-- Sistemes
-- Hardware
-- Organització i documentació
+### 💪 Fortaleses de l’equip
+* **Xarxes** (Configuració i optimització)
+* **Sistemes** (Administració i manteniment)
+* **Hardware** (Muntatge i diagnòstic)
+* **Organització i documentació**
 
-**Debilitats:**
-- Experiència limitada com a empresa recent
-- Recursos humans reduïts
-- Dependència de proveïdors externs
-- Capacitat limitada per assumir molts clients alhora
-
-**Rols:**
-- **Daniel Gallardo Rodriguez – Facilitador:** Controla el temps i presa de decisions.  
-- **Lluis Garcia Martinez – Documentador:** Redacció, organització del contingut i evidències.
-
-**Espai per foto de l’equip:** ![Foto de l'equip](ruta/a/foto_equip.jpg)
+### 👥 Rols
+* **Persona A – Facilitador:** Controla temps i presa de decisions.
+* **Persona B – Documentador:** Redacció i organització del contingut.
 
 ---
 
-## FASE 1 — EMPATITZAR I DEFINIR
+## 🎯 FASE 1 — EMPATITZAR I DEFINIR
 
-**Repte:** Millorar la infraestructura tecnològica de petites empreses del Maresme perquè puguin treballar de manera segura i estable.
+### **Repte**
+Millorar la infraestructura tecnològica de petites empreses del Maresme perquè puguin treballar de manera segura i estable.
 
-**Problema / Oportunitat:** Moltes petites empreses de Mataró i el Maresme tenen xarxes informàtiques mal configurades, sense còpies de seguretat ni mesures bàsiques de seguretat, provocant pèrdues de temps, incidències freqüents i risc de pèrdua de dades importants.
+### **Problema / Oportunitat**
+Moltes petites empreses de Mataró i el Maresme tenen xarxes mal configurades, sense còpies de seguretat ni mesures bàsiques de seguretat, provocant pèrdues de temps, incidències freqüents i risc de pèrdua de dades importants.
 
-**Reformulació del problema (HMW):** *Com podríem millorar la seguretat i la gestió de la infraestructura IT d’una petita empresa del Maresme perquè pugui treballar sense interrupcions ni risc de pèrdua de dades?*
+### **Reformulació del problema (HMW)**
+> ¿Com podríem millorar la seguretat i la gestió de la infraestructura IT d’una petita empresa del Maresme perquè pugui treballar sense interrupcions ni risc de pèrdua de dades?
 
-**Usuari (Persona):**
-| Camp | Dades |
+### **Usuari (Persona)**
+* **Nom:** Jordi Puig
+* **Edat:** 45 anys
+* **Professió:** Gerent a *Gestoria Puig SL* (Mataró)
+* **Frase típica:** *“La informàtica sempre dóna problemes quan més feina tenim.”*
+* **Perfil:** Ús de la tecnologia mitjà-baix. Pràctic, amb poc temps, busca solucions simples i fiables.
+
+---
+
+## 💡 FASE 2 — IDEACIÓ
+
+### **Pluja d’idees (Resum)**
+1. Servei de manteniment IT
+2. Xarxa segura per pimes
+3. Còpies de seguretat automàtiques
+4. Wi-Fi per convidats separat
+5. Instal·lació de firewall
+6. Monitorització remota
+7. Suport tècnic extern
+8. Servidor NAS compartit
+9. Gestió d’usuaris i permisos
+10. Migració de correu corporatiu
+11. Auditoria IT bàsica
+12. Formació bàsica en seguretat
+
+### **Selecció final**
+* **Idees finalistes:** Manteniment mensual, xarxa segura amb backups i suport extern.
+* **Solució final:** **NetMaresme Care** – Servei de manteniment i gestió d’infraestructura IT per a petites empreses del Maresme, orientat a garantir seguretat, continuïtat del servei i tranquil·litat.
+
+---
+
+## 🛠️ FASE 3 — PROTOTIPAR I VALIDAR
+
+### **3A — Prototip (Flux de servei)**
+
+| Fase | Descripció |
 | :--- | :--- |
-| Nom | Jordi Puig |
-| Edat | 45 anys |
-| Professiò | Gerent |
-| Empresa | Gestoria Puig SL |
-| Ciutat | Mataró |
-| Frase típica | “La informàtica sempre dóna problemes quan més feina tenim.” |
-| Ús de tecnologia | Mitjà-baix |
-| Personalitat | Pràctic, amb poc temps, busca solucions simples i fiables |
+| **Entrada (Client)** | Treball amb incidències: lentitud, errors, risc de dades. Contacte amb NetMaresme IT. |
+| **Procés (NetMaresme IT)** | Configuració LAN/Wi-Fi, control d'usuaris, backups, monitorització i manteniment. |
+| **Resultat (Client)** | Xarxa estable, seguretat, protecció de dades i tranquil·litat. |
 
-**Espai per fotos de fitxes i validacions:** ![Fitxa 1](ruta/a/fitxa1.jpg)  
-![Fitxa 2](ruta/a/fitxa2.jpg)
-
----
-
-## FASE 2 — IDEACIÓ
-
-**Pluja d’idees:**
-- Servei de manteniment IT  
-- Xarxa segura per pimes  
-- Còpies de seguretat automàtiques  
-- Wi-Fi per convidats separat  
-- Instal·lació de firewall  
-- Monitorització remota  
-- Suport tècnic extern  
-- Servidor NAS compartit  
-- Gestió d’usuaris i permisos  
-- Migració de correu corporatiu  
-- Auditoria IT bàsica  
-- Formació bàsica en seguretat  
-
-**Selecció d’idees finalistes:**
-- Servei de manteniment IT mensual  
-- Xarxa segura amb còpies de seguretat  
-- Suport tècnic extern per pimes  
-
-**Solució final:** **NetMaresme Care** – Servei de manteniment i gestió d’infraestructura IT per a petites empreses del Maresme, orientat a garantir seguretat, continuïtat del servei i tranquil·litat.
-
-**Espai per imatges de brainstorm / moodboard:** ![Idees](ruta/a/idees.jpg)
-
----
-
-## FASE 3 — PROTOTIPAR I VALIDAR
-
-### 3A — Prototip (Flux de servei)
-
-**Flux de funcionament (Entrada → Procés → Resultat)**
-
-**Entrada (Client):** L’empresa client treballa amb ordinadors i xarxa local. Apareixen incidències: lentitud, errors, dubtes, risc de pèrdua de dades. Contacta amb NetMaresme IT.
-
-**Procés (NetMaresme IT):**
-- Xarxa local segura (LAN + Wi-Fi convidats)  
-- Control d’usuaris i permisos  
-- Còpies de seguretat periòdiques  
-- Monitorització bàsica dels sistemes  
-- Resolució d’incidències i manteniment preventiu  
-
-**Resultat (Client):**
-- Xarxa estable i segura  
-- Menys incidències  
-- Protecció de dades  
-- Estalvi de temps  
-- Tranquil·litat  
-
-**Esquema gràfic (dibuixable ASCII / per passar a Canva o draw.io):**
+#### **Esquema gràfic**
 ```text
-[ Empresa Client ]
-(PCs, usuaris, incidències)
+[ Empresa Client ] (PCs, usuaris, incidències)
         |
         v
 [ NetMaresme IT ]
-------------------------------
-- Xarxa LAN segura
-- Wi-Fi convidats
-- Firewall
-- Backups
-- Monitorització
-- Suport tècnic
-------------------------------
+--------------------------------------------
+- Xarxa LAN segura    - Wi-Fi convidats
+- Firewall            - Backups
+- Monitorització      - Suport tècnic
+--------------------------------------------
         |
         v
-[ Resultat ]
-- Estabilitat
-- Seguretat
-- Menys errors
-- Continuïtat del servei
+[ Resultat ] (Estabilitat, Seguretat, Continuïtat)
